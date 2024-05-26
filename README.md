@@ -19,32 +19,31 @@ Also, I have tried some projects, which are in Kaggle and Data Driven Competitio
 #### Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/Languages/r-lang.svg" alt="R" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/jupyter.svg" alt="Jupyter" width="30" height="30"/>
+  
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/google-colab.svg" alt="Google Colab" width="30" height="30"/>
 </p>
 
+#### Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/keras.svg" alt="Keras" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/numpy.svg" alt="NumPy" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/matplotlib.svg" alt="Matplotlib" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/streamlit.svg" alt="Streamlit" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/41f5d30dd81d8d04630a2863ff5d0aa8cfd24a20/svg/Skills/ML/plotly.svg" alt="Plotly" width="30" height="30"/>
+</p>
 
-<h3 align="left">Stars</h3>
+#### Statistics
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayandee&layout=compact&theme=calm" alt=Gayandee />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="left">
 <a href="https://github.com/Gayandee">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayandee&theme=calm" height="180em" />
