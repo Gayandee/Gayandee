@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gayandee</h1>
-<h3 align="center">I'm a logical thinker with positive thoughts. For a long time, I was fascinated by Anatomy; Learned it even it's different from my path. Currently, I'm Data Scientist and an active Kaggler. Also, I have tried some projects, which are in Kaggle and Data Driven Competitions.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gayandee&label=Profile%20views&color=0e75b6&style=flat" alt="Gayandee" /> </p>
-
-- How to reach me **gayandeethathsiluni@gmail.com**
+<h1 align="left">Hi 👋, I'm Gayandee</h1>
+<h4 align="left">I'm a logical thinker with positive thoughts. For a long time, I was fascinated by Anatomy; Learned it even it's different from my path. Currently, I'm Data Scientist and an active Kaggler. Also, I have tried some projects, which are in Kaggle and Data Driven Competitions.</h4>
 
 <div> <a href="https://www.linkedin.com/in/Gayandee Rajapaksha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Gayandee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -38,8 +35,11 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayandee&layout=compact&theme=calm" alt=Gayandee />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
+<div align="left">
 <a href="https://github.com/Gayandee">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayandee&theme=calm" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayandee&theme=calm" height="180em" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gayandee&label=Profile%20views&color=0e75b6&style=flat" alt="Gayandee" /> </p>
+
