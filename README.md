@@ -1,12 +1,12 @@
 ### Hello, I'm Gayandee 👋
 [![Linkedin: Gayandee Rajapaksha](https://img.shields.io/badge/-Gayandee%20Rajapaksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gayandee%20Rajapaksha/)](https://www.linkedin.com/in/Gayandee%20Rajapaksha/)
-[![Medium Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Gayandee%20Rajapaksha)](https://medium.com/@Gayandee%20Rajapaksha)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/25252292)](https://stackoverflow.com/users/25252292)
-[![Kaggle Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/Gayandee%20Rajapaksha)](https://www.kaggle.com/Gayandee%20Rajapaksha)
-[![Behance Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-1769FF?style=flat&logo=behance&logoColor=white&link=https://www.behance.net/Gayandee%20Rajapaksha)](https://www.behance.net/Gayandee%20Rajapaksha)
+[![Kaggle Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/gayandeer)](https://www.kaggle.com/gayandeer)
+[![Medium Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@gayandeethathsiluni)](https://medium.com/@gayandeethathsiluni)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/25252292/gayandee-thathsiluni?tab)](https://stackoverflow.com/users/25252292/gayandee-thathsiluni?tab)
+[![Behance Badge](https://img.shields.io/badge/-Gayandee%20Rajapaksha-1769FF?style=flat&logo=behance&logoColor=white&link=https://www.behance.net/gayanderajapak)](https://www.behance.net/gayanderajapak)
 ![Profile views](https://komarev.com/ghpvc/?username=Gayandee)
 
-#### This is me
+#### This is me!
 I'm a logical thinker with positive thoughts.
 
 For a long time, I was fascinated by Anatomy; Learned it even it's different from my path.
